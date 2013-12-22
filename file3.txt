@@ -1,2 +1,6 @@
 File 3
+<<<<<<< Updated upstream
 xxx
+=======
+stash
+>>>>>>> Stashed changes
